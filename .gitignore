@@ -1,0 +1,6 @@
+**/user_guide
+**/vendor
+**/system
+*.[oa]
+.*
+!/.gitignore
